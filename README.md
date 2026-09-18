@@ -7,6 +7,18 @@
 - 许可证：代码采用 [GNU GPL v3](LICENSE)；图符和第三方组件分别遵循各自许可证，详见 [第三方代码与素材声明](THIRD_PARTY_NOTICES.md)
 - 检出与构建：本仓库与 CBoard fork 需要保持为相邻目录，详见 [独立检出与构建说明](docs/独立检出与构建说明.md)
 - 正式上线：[微信小程序正式上线合规矩阵](docs/微信小程序正式上线合规矩阵.md)记录隐私、域名、插件、备案、源码和图符许可的逐项证据
+- 微信小程序主工程
+- https://github.com/lightcoloror/picinterpreter-wechat
+- CBoard Web 二次开发
+- https://github.com/lightcoloror/cboard
+- CBoard 后端 API
+- https://github.com/lightcoloror/cboard-api
+- CBoard AI Engine
+- https://github.com/lightcoloror/cboard-ai-engine
+- 图语家原始 MVP
+- https://github.com/picinterpreter/picinterpreter
+- 迁移文档与原始实现镜像
+- https://github.com/lightcoloror/picinterpreter-project
 
 ## 当前闭环
 
